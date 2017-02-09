@@ -1,2 +1,1 @@
-# jetRepo
-First project
+HELLO GIT
